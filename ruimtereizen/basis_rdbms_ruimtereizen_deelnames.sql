@@ -1,0 +1,13 @@
+INSERT INTO ruimtereizen.deelnames (reisnr, klantnr) VALUES (31, 121);
+INSERT INTO ruimtereizen.deelnames (reisnr, klantnr) VALUES (31, 122);
+INSERT INTO ruimtereizen.deelnames (reisnr, klantnr) VALUES (31, 123);
+INSERT INTO ruimtereizen.deelnames (reisnr, klantnr) VALUES (31, 124);
+INSERT INTO ruimtereizen.deelnames (reisnr, klantnr) VALUES (32, 121);
+INSERT INTO ruimtereizen.deelnames (reisnr, klantnr) VALUES (32, 123);
+INSERT INTO ruimtereizen.deelnames (reisnr, klantnr) VALUES (32, 124);
+INSERT INTO ruimtereizen.deelnames (reisnr, klantnr) VALUES (33, 121);
+INSERT INTO ruimtereizen.deelnames (reisnr, klantnr) VALUES (33, 125);
+INSERT INTO ruimtereizen.deelnames (reisnr, klantnr) VALUES (33, 126);
+INSERT INTO ruimtereizen.deelnames (reisnr, klantnr) VALUES (34, 122);
+INSERT INTO ruimtereizen.deelnames (reisnr, klantnr) VALUES (34, 125);
+INSERT INTO ruimtereizen.deelnames (reisnr, klantnr) VALUES (34, 126);

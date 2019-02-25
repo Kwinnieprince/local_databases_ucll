@@ -1,0 +1,16 @@
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (31, 'Maan', 1, 7);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (32, 'Maan', 1, 0);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (32, 'Phobos', 2, 1);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (32, 'Deimos', 3, 0);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (32, 'Mars', 4, 3);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (32, 'Maan', 5, 2);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (33, 'Maan', 1, 8);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (34, 'Mars', 1, 14);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (34, 'Jupiter', 2, 0);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (34, 'Io', 3, 5);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (35, 'Maan', 1, 5);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (35, 'Mars', 2, 7);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (35, 'Maan', 3, 0);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (36, 'Mars', 1, 12);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (36, 'Jupiter', 2, 0);
+INSERT INTO ruimtereizen.bezoeken (reisnr, objectnaam, volgnr, verblijfsduur) VALUES (36, 'Io', 3, 3);
