@@ -1,0 +1,13 @@
+INSERT INTO tennis.wedstrijden (wedstrijdnr, teamnr, spelersnr, gewonnen, verloren) VALUES (1, 1, 6, 3, 1);
+INSERT INTO tennis.wedstrijden (wedstrijdnr, teamnr, spelersnr, gewonnen, verloren) VALUES (2, 1, 6, 2, 3);
+INSERT INTO tennis.wedstrijden (wedstrijdnr, teamnr, spelersnr, gewonnen, verloren) VALUES (3, 1, 6, 3, 0);
+INSERT INTO tennis.wedstrijden (wedstrijdnr, teamnr, spelersnr, gewonnen, verloren) VALUES (4, 1, 44, 3, 2);
+INSERT INTO tennis.wedstrijden (wedstrijdnr, teamnr, spelersnr, gewonnen, verloren) VALUES (5, 1, 83, 0, 3);
+INSERT INTO tennis.wedstrijden (wedstrijdnr, teamnr, spelersnr, gewonnen, verloren) VALUES (6, 1, 2, 1, 3);
+INSERT INTO tennis.wedstrijden (wedstrijdnr, teamnr, spelersnr, gewonnen, verloren) VALUES (7, 1, 57, 3, 0);
+INSERT INTO tennis.wedstrijden (wedstrijdnr, teamnr, spelersnr, gewonnen, verloren) VALUES (8, 1, 8, 0, 3);
+INSERT INTO tennis.wedstrijden (wedstrijdnr, teamnr, spelersnr, gewonnen, verloren) VALUES (9, 2, 27, 3, 2);
+INSERT INTO tennis.wedstrijden (wedstrijdnr, teamnr, spelersnr, gewonnen, verloren) VALUES (10, 2, 104, 3, 2);
+INSERT INTO tennis.wedstrijden (wedstrijdnr, teamnr, spelersnr, gewonnen, verloren) VALUES (11, 2, 112, 2, 3);
+INSERT INTO tennis.wedstrijden (wedstrijdnr, teamnr, spelersnr, gewonnen, verloren) VALUES (12, 2, 112, 1, 3);
+INSERT INTO tennis.wedstrijden (wedstrijdnr, teamnr, spelersnr, gewonnen, verloren) VALUES (13, 2, 8, 0, 3);
